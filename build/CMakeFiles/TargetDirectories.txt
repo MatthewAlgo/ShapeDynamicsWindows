@@ -1,0 +1,4 @@
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows/build/CMakeFiles/ShapeDynamicsWindows.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows/build/CMakeFiles/INSTALL.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows/build/CMakeFiles/ZERO_CHECK.dir

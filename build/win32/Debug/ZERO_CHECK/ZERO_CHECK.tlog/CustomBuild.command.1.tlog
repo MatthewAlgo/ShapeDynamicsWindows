@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEWALGO\DESKTOP\PROJECTSRECREATION\STILLTESTING\SHAPEDYNAMICSWINDOWS\BUILD\CMAKEFILES\92AE0F02A5D69153BC9CD7FE614BD8AD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows -BC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/ShapeDynamicsWindows/build/ShapeDynamicsWindows.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
